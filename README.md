@@ -12,4 +12,5 @@ This small list would make finding token addresses on Meter easier for new devs.
 | Binance USD       | BUSD      | 0x24aa189dfaa76c671c279262f94434770f557c35 |
 | Wrapped BTC       | WBTC      | 0xc1f6c86abee8e2e0b6fd5bd80f0b51fef783635c |
 | Moonriver         | MOVR      | 0xb158870beb809ad955bf56065c5c10d7fd957cc0 |
+| Ampleforth        | AMP       | 0x1cf09d1b5da9d9d24365d87b932a7c4bd018a419 |
 
